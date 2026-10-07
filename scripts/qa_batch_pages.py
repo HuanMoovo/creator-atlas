@@ -4,13 +4,13 @@
 
 用法（在仓库根目录运行）：
     python qa_batch_pages.py "docs/genres/**/README.md"
-    python qa_batch_pages.py --sections 7 --title "Ludo Atlas" "docs/genres/**/README.md"
-    python qa_batch_pages.py --sections 6 --min-lines 120 "docs/teams/**/README.md"
+    python qa_batch_pages.py --sections 7 --title "Creator Atlas" "docs/methods/*.md"
+    python qa_batch_pages.py --sections 4 --min-lines 40 "docs/genres/*/README.md"
     python qa_batch_pages.py --marker "第 34 轮" "docs/genres/**/README.md"
     python qa_batch_pages.py --lint "docs/genres/**/README.md"
 
 检查项：文件存在、行数、标题标记、编号小节数（--sections 按本批模板实际节数传：
-类型页 7、引擎页 7、团队页 6，不要硬编码）、「延伸阅读」小节、破折号「——」数量、
+方法域 7、制作方法 4，不要硬编码）、「延伸阅读」小节、破折号「——」数量、
 外链 http(s) 数量、模板连接词（命中先人工看上下文，是启发式）、emoji、占位词
 （TODO/TBD/待补，启发式）、批次标记（--marker 传期望子串，如「第 34 轮」）、
 站内相对链接可解析（从文件所在目录解析，跳过 http/mailto/#）。
