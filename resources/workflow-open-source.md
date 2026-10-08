@@ -149,7 +149,7 @@
 | [Poly Haven](https://polyhaven.com/) | HDRI、PBR 贴图与 3D 模型 | Web | CC0 | 场景与 3D 素材，可商用 |
 | [ambientCG](https://ambientcg.com/) | 材质与贴图库 | Web | CC0 | 无缝贴图与 HDRI |
 | [Freesound](https://freesound.org/) | 社区音效库 | Web | CC0 / CC-BY / CC-BY-NC（逐条） | 音效；注意 NC 不可商用 |
-| [Openverse](https://openverse.org/) | 开放素材聚合搜索 | Web / API | 平台 MIT；素材各类 CC | 一处搜全网开放素材 |
+| [Openverse](https://github.com/WordPress/openverse) | 开放素材聚合搜索 | Web / API | 平台 MIT；素材各类 CC | 一处搜全网开放素材 |
 | [Google Fonts](https://fonts.google.com/) | 开源字体库 | Web / 全平台下载 | OFL-1.1 为主 | 商用免费字体 |
 
 > Pexels、Unsplash 等免费授权库不是开源项目，清单见[《素材与版权》](assets-rights.md)。
