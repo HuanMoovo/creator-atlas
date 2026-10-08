@@ -25,6 +25,8 @@ It suits everything centered on "getting it clear": conveying information, expre
 | Book & film reviews | A fixed subject; commentary-forward | 5–15 min | State spoiler boundaries up front; every judgment carries evidence |
 | Niche commentary | Finance, career, law, health, psychology, etc. | 3–15 min | Hard professional anchors; compliance over expression |
 | Daily briefing | Fixed show, fixed format, fixed slot | 1–5 min | Templated structure; capacity and consistency are the lifeline |
+| Industry & product analysis | Reading industry events and product logic | 5–15 min | Layer the sources: first-hand first; keep prediction apart from fact |
+| Experience & method retros | A method review built on first-hand practice | 5–15 min | Complete timeline and result data; extract transferable conclusions |
 
 ### Boundaries & Scope
 
