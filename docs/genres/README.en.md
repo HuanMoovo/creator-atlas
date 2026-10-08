@@ -192,15 +192,54 @@ A cross-reference of 100+ content formats against the 8 production methods. To c
 
 ## Classification Rules
 
+Classification runs in three steps: first the delivery gate, then where the images come from, and last how production is organized.
+
+### Decision Path
+
+1. **Delivery gate**: custom projects that require client acceptance (ads, promotional films, pitch films, event and performance coverage) go to Commercial Production; self-run content moves on.
+2. **Question 1 · Where the images come from**: newly shot → next step; reused existing material → Editorial & Remix; generated and synthesized → Animation & Synthesis.
+3. **Question 2 · How production is organized**: talking → Talking to Camera; real-life recording → Real-Life & Documentary; scripted performance → Scripted & Performance; step-by-step demonstration → Demo & Screencast; conversation → Conversation & Interview.
+
+### Rules & Edge Cases
+
 - Vertical short-form and horizontal long-form are distribution formats that can appear in any method; the general methods of distribution live in [Packaging & Distribution](../methods/packaging.md).
 - Livestreams, recorded courses and other real-time formats classify by primary scene: talking-led into Talking to Camera, conversation-led into Conversation & Interview, demo-led into Demo & Screencast.
 - Hybrid formats follow the primary scene: one piece belongs to exactly one method, and the secondary format is handled as a variation note on that page — a demo inside a talking-head video, an interview inside a documentary.
 - Edge cases: sports highlights, gameplay edits and film mashups all go to Editorial & Remix; wedding and event records split between personal documentary and Commercial Production depending on whether they are delivered to a client; reality shows and variety shows classify by how scripted they are and their primary scene: scripted segments and performances go to Scripted & Performance, observational records go to Real-Life & Documentary, conversation-led ones go to Conversation & Interview.
 - Anime & ACG content follows the picture source: clip-based commentary edits go to Editorial & Remix; on-camera chat formats go to Talking to Camera.
-- The 8 methods are designed around two questions — where the images come from and how production is organized — and every known format can be placed; unlisted newcomers get located by the same two questions before deciding between merging and a new page.
+- Every known format can be placed via the decision path; unlisted newcomers get located by it first, then either merge into an existing method or open a new page.
 - Livestream family: live commerce is handled as talking plus demo; unmanned and looping streams classify by their source material; sports and performance broadcasts go to Commercial Production; slow and companion streams go to Real-Life & Documentary.
 - AI does not change the category: generated imagery goes to Animation & Synthesis, and AI-assisted work in other methods classifies by its primary scene, with disclosure per platform rules.
 - Boundary notes: interactive video and branching storylines are the reserved candidate for a new page (they add branching structure and an interactive engine to the pipeline, to be listed separately once mature); films, series and shows are source material, not content formats; pure-audio and text-image content classify only after being produced as video.
+
+### Worked Examples
+
+A quick lookup for high-frequency formats:
+
+| Item | Method | Why |
+| --- | --- | --- |
+| Gameplay commentary | Demo & Screencast | Screen capture plus commentary — same structure as a recorded tutorial |
+| Film recaps | Editorial & Remix | Narration-driven, built on reused footage |
+| Anime talk (clip-edited) | Editorial & Remix | Clip editing with voice-over commentary is the core |
+| Anime talk (on camera) | Talking to Camera | The picture is a person talking to camera |
+| Variety (competition & games) | Scripted & Performance | Scripted segments and performances carry the show |
+| Variety (observational) | Real-Life & Documentary | Real observation and recording take the lead |
+| Interview shows | Conversation & Interview | Conversation is the core; information emerges in the talk |
+| Live commerce | Talking to Camera (talking + demo) | Classified by primary scene; the demo part is a variation |
+| Sports highlights / gameplay edits / film mashups | Editorial & Remix | Re-assembling existing footage |
+| Sports and performance broadcasts | Commercial Production | Professional broadcast and production delivery |
+| Wedding & event coverage (client commission) | Commercial Production | A delivery that requires client acceptance |
+| Wedding & event records (own keepsakes) | Real-Life & Documentary | Self-run recording with no commissioning party |
+| Podcast (video edition) | Conversation & Interview | Conversation-led; pure audio counts only once produced as video |
+| Documentary-style brand film | Commercial Production | Brand delivery is the purpose |
+| Recorded courses | Talking to Camera or Demo & Screencast | By primary scene: talk-led to talking, demo-led to demo |
+| ASMR & slow streams | Real-Life & Documentary | Real-environment recording and companionship |
+| Anime MAD / AMV | Editorial & Remix | Re-cutting existing animation footage |
+| Hand-drawn & indie animation | Animation & Synthesis | Drawn and synthesized imagery |
+| Digital-human presenters | Animation & Synthesis | A synthetic persona replaces camera talent |
+| Interactive drama | Scripted & Performance (new-page candidate) | Merged by primary scene for now; listed separately once mature |
+| Sponsored segments (own channel) | By the content itself | Commercial ties do not move the method |
+| Urban exploration & career immersion | Real-Life & Documentary | Process records from real scenes |
 
 ## Why Organize by Production Method
 
