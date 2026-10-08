@@ -1,7 +1,7 @@
 # Creator Atlas · 制作方法 · 动画合成（Animation & Synthesis）
 
 > 定位：画面不来自拍摄现场，而由制作生成。成本结构与实拍相反：时间与人力密集，但不受场地和天气约束，能表达实拍做不到的东西。
-> 配套：[《脚本与叙事》](../../methods/script.md)《拍摄与制作》《剪辑与后期》等[方法域](../../methods/README.md)页面。
+> 配套：[《脚本与叙事》](../../methods/script.md)[《拍摄与制作》](../../methods/production.md)《剪辑与后期》等[方法域](../../methods/README.md)页面。
 
 ---
 
