@@ -27,6 +27,8 @@ Authenticity has a premium and a price: viewers tolerate more roughness but dema
 | ASMR & ambience | Sensory experience, weak narrative | 5–60 min | Sound quality is the content; strip the environment down |
 | Home & lifestyle | Setting aesthetics and practical information | 5–12 min | Control light and ambient noise; tidy the frame before shooting |
 | Street observation | Chance and city narratives | 3–10 min | On-the-spot judgment; portrait and privacy handling must be compliant |
+| Fishing & outdoors | Slow process, then the payoff moment | 5–20 min | Compress the waiting, enlarge the catch; ambient sound sets the mood |
+| Cycling & road trips | Route process and roadside finds | 8–20 min | Route info and imagery together; safety and weather backup |
 
 ### Boundaries & Scope
 

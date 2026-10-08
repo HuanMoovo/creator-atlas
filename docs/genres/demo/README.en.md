@@ -27,6 +27,9 @@ It suits everything that must be seen to be believed or followed to be learned. 
 | Fitness & makeup follow-alongs | Movement demonstration and rhythm | 5–20 min | Fixed camera angles; safety notes and body-type boundaries |
 | Experiments & tests | A verification process | 3–12 min | Controlled variables; reproducible conclusions |
 | Workflow walkthroughs | The complete process on display | 5–15 min | The whole flow visible; speed up the information-free stretches |
+| Coding walkthroughs | Code process and result verification | 8–25 min | Enlarge code fonts; keep the debugging process complete |
+| Drawing & calligraphy | Process capture and technique on display | 3–15 min | Alternate time-lapse and close-ups; keep the brush sounds |
+| Efficiency tip collections | High-frequency tips demonstrated together | 3–10 min | Each tip stands alone; group by use case |
 
 ### Boundaries & Scope
 

@@ -24,6 +24,8 @@ It suits organizations and brands with budget and clear goals; for individual cr
 | Employer branding & recruiting | Talent attraction | 1–5 min | Real employees and real scenes |
 | Government & enterprise films | Outcomes and history reported | 3–10 min | Steady structure; material and messaging reviewed in rounds |
 | Trade-show recaps | Immediate distribution | 30 s–3 min | Same-day output; templated process |
+| Music videos | Built around a music release | 2–5 min | Concept matches the song's character; cut multiple versions (full and vertical) |
+| Motion graphics & brand idents | Motion-design-driven delivery | 15 s–2 min | Brand guidelines first; templatize for client reuse |
 
 ### Boundaries & Scope
 

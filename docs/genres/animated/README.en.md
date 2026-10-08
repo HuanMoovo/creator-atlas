@@ -23,6 +23,8 @@ It suits explanatory, illustrative and imaginative content; the more a subject d
 | AI-generated footage | Fast output | 1–10 min | Generate in batches, select by hand, unify the style |
 | Faceless knowledge videos | Stock footage plus voice-over | 3–12 min | Footage availability and rights; personality carried by voice and topics |
 | Abstract concept demos | Showing the unshootable | 3–10 min | Design the visual grammar from the question outward |
+| Kids & educational animation | Built for young viewers and classrooms | 2–10 min | Grade the vocabulary and pace; lower density than adult content |
+| Music visualization | Sound-driven visuals | 1–5 min | Beat alignment first; design loops and variations |
 
 ### Boundaries & Scope
 

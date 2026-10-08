@@ -23,6 +23,8 @@ It suits professional viewpoints, character stories and relationship-driven cont
 | Street interviews | Sampling public opinion | 3–10 min | One-sentence questions; sample volume and screening efficiency |
 | Career & hiring interviews | Career information and experience | 10–30 min | Information density; concrete, checkable cases |
 | Founder interviews | Stories and lessons reviewed | 30–90 min | Story line design; numbers and outcomes stated |
+| Call-in consultations | One-on-one expert answers | 15–60 min | Privacy and compliance first; anonymize cases |
+| Creators & behind-the-scenes | Conversations about the work itself | 20–60 min | Work facts and creative motives together; weave in BTS footage |
 
 ### Boundaries & Scope
 

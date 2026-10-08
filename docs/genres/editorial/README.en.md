@@ -24,6 +24,8 @@ The efficiency is enormous: no shooting and no locations, with the ceiling set b
 | Memes & absurd edits | Audio-visual mismatch | 1–5 min | The highest timing precision; relies on community context |
 | Meme roundups | Context transplant | 1–5 min | Short freshness window; credit and sources stated |
 | News digests | Information aggregation | 3–10 min | Sources and positions layered; fact-checking discipline |
+| Warning & pitfall roundups | Assemblies made to warn | 3–10 min | Evidence first; avoid absolute claims |
+| Song mixes & audio remixes | Re-creation driven by the audio layer | 1–5 min | The transitions' key and beat are the quality divide |
 
 ### Boundaries & Scope
 

@@ -23,6 +23,8 @@ It suits content chasing emotion and memory: make them laugh, make them follow, 
 | Dance | Choreography matched to the camera | 1–5 min | Fix the viewing angles before choreographing; keep 3× footage for multi-cam |
 | Stage skits | Live performance blocking | 5–15 min | Layered stage blocking; record audience reactions separately |
 | Impressions & parodies | Context-dependent performance | 30 s–3 min | The source bit must be recognizable; mind footage and likeness boundaries |
+| Talent performances | Skill display as the core | 1–5 min | The camera magnifies technique; keep both failures and successes |
+| Period dramas | Stylized aesthetics and set design | 3–15 min | Plan the art budget up front; keep wardrobe and props consistent |
 
 ### Boundaries & Scope
 
