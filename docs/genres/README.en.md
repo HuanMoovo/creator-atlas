@@ -200,6 +200,7 @@ A cross-reference of 100+ content formats against the 8 production methods. To c
 - The 8 methods are designed around two questions — where the images come from and how production is organized — and every known format can be placed; unlisted newcomers get located by the same two questions before deciding between merging and a new page.
 - Livestream family: live commerce is handled as talking plus demo; unmanned and looping streams classify by their source material; sports and performance broadcasts go to Commercial Production; slow and companion streams go to Real-Life & Documentary.
 - AI does not change the category: generated imagery goes to Animation & Synthesis, and AI-assisted work in other methods classifies by its primary scene, with disclosure per platform rules.
+- Boundary notes: interactive video and branching storylines are the reserved candidate for a new page (they add branching structure and an interactive engine to the pipeline, to be listed separately once mature); films, series and shows are source material, not content formats; pure-audio and text-image content classify only after being produced as video.
 
 ## Why Organize by Production Method
 
@@ -207,4 +208,4 @@ One production method shares its workflow, skill stack and evaluation metrics; s
 
 ## Roadmap
 
-New content formats merge into the existing 8 methods; a brand-new production method (interactive video, say) gets a new page. See the [Content Roadmap](../meta/roadmap.md).
+New content formats merge into the existing 8 methods; a brand-new production method (interactive video, branching storylines, say) gets a new page. See the [Content Roadmap](../meta/roadmap.md).
