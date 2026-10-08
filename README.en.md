@@ -49,7 +49,7 @@ An open-source handbook set covering the full video-creation lifecycle:
 
 ### Resources, templates & meta
 
-- [Resources & Tools](resources/README.md): gear, software, assets, AI tools and data platforms, links verified.
+- [Resources & Tools](resources/README.md): gear, software, open-source tools, assets, AI tools and data platforms, links verified.
 - [Checklists & Templates](templates/README.md): topic bank, scripts, storyboard, pre-publish checklist, retro.
 - [Glossary](GLOSSARY.md): bilingual term list.
 - [About This Repo](docs/meta/design.md) · [Content Roadmap](docs/meta/roadmap.md).

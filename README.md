@@ -49,7 +49,7 @@
 
 ### 资源、模板与元信息
 
-- [资源与工具](resources/README.md)：设备、软件、素材、AI 工具与数据平台的核查过入口。
+- [资源与工具](resources/README.md)：设备、软件、开源工具、素材、AI 工具与数据平台的核查过入口。
 - [清单与模板](templates/README.md)：选题库、脚本、分镜、发布检查与复盘的即用模板。
 - [术语表](GLOSSARY.md)：创作与平台术语中英对照。
 - [关于本库](docs/meta/design.md) · [内容路线图](docs/meta/roadmap.md)。

@@ -3,12 +3,13 @@
 > This page lists expansion directions and current status. To claim or nominate, open an Issue.
 > Last updated: 2026-10.
 
-## Current status (v0.1)
+## Current status (v0.2)
 
 - Seven method domains: complete (7/7).
 - Production methods: 8 complete; new content types merge into the existing categories and keep expanding.
-- Resources & tools: 6 pages complete; links re-checked with each release.
+- Resources & tools: 7 pages complete; links re-checked with each release.
 - Checklists & templates: 8 complete.
+- Open-source tools: 14 categories, 193 entries, complete.
 - English edition: entry and core pages translated; the rest rolls out in batches (see T3).
 
 ## Backlog

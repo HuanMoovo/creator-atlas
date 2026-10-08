@@ -29,7 +29,7 @@ Out of scope: hot-news coverage, zero-basics tutorials for a single piece of sof
 | Getting started | The big picture, niche selection, your first video, learning paths, roles map | [Start Here](../start/README.md) |
 | Method domains | Seven handbooks: positioning, script, production, editing, packaging, growth, monetization | [Method Domains](../methods/README.md) |
 | Production methods | 8 production-method handbooks (integrating dozens of content types) | [Production Methods](../genres/README.md) |
-| Resources & tools | Verified entries for gear, software, assets, AI tools and data platforms | [Resources & Tools](../../resources/README.md) |
+| Resources & tools | Verified entries for gear, software, open-source tools, assets, AI tools and data platforms | [Resources & Tools](../../resources/README.md) |
 | Checklists & templates | Ready-to-use templates: topic bank, scripts, storyboard, publish checklist, retro | [Checklists & Templates](../../templates/README.md) |
 | Meta | This page, the content roadmap, the glossary | [Repository Info](README.md) |
 
@@ -47,7 +47,7 @@ Out of scope: hot-news coverage, zero-basics tutorials for a single piece of sof
 ```text
 creator-atlas/
 ├── docs/            # Reading content: start / methods / genres / meta
-├── resources/       # Resources & tools (gear, software, assets, AI, data)
+├── resources/       # Resources & tools (gear, software, open-source, assets, AI, data)
 ├── templates/       # Ready-to-use checklists and templates
 ├── site/            # Site build (Material for MkDocs)
 ├── scripts/         # Tooling (link checking)
@@ -55,11 +55,11 @@ creator-atlas/
 └── .github/         # CI: lint / link check / site deploy
 ```
 
-Current scale: 7 method domains · 8 production methods · 6 resource pages · 8 templates · bilingual reading site (简体中文 / English).
+Current scale: 7 method domains · 8 production methods · 7 resource pages · 8 templates · bilingual reading site (简体中文 / English).
 
 ## 05 Version & status
 
-- Current version v0.1: initial skeleton, seven method domains, 8 production methods, resources and templates, bilingual reading site.
+- Current version v0.2: on top of the v0.1 skeleton (seven method domains, 8 production methods, resources and templates, bilingual reading site), the Open-Source Tools page (14 categories, 193 entries) is added.
 - Milestones: v0.1 initial skeleton and 8 production methods → subsequent expansion per the roadmap (full English coverage, case library, platform-mechanics reference).
 - Full record in [CHANGELOG.md](../../CHANGELOG.md); next steps in the [Content Roadmap](roadmap.md).
 

@@ -63,7 +63,7 @@ Creator Atlas 是一个中文优先的开源视频创作知识库：把「做视
 
     ---
 
-    设备、软件、素材、AI 与数据平台的核查过入口。
+    设备、软件、开源工具、素材、AI 与数据平台的核查过入口。
 
     [:octicons-arrow-right-24: 进入](resources/index.md)
 

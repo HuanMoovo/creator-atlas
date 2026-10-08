@@ -63,7 +63,7 @@ The story and organizing principles behind the project are in the [Preface](docs
 
     ---
 
-    Gear, software, assets, AI tools and data platforms — links verified.
+    Gear, software, open-source tools, assets, AI tools and data platforms — links verified.
 
     [:octicons-arrow-right-24: Open](resources/index.md)
 
