@@ -36,6 +36,7 @@ It suits everything that must be seen to be believed or followed to be learned. 
 | 3D modeling & design | Design workflows in professional software | 10–40 min | Surface shortcuts; offer project files when possible |
 | Audio-video production | The creator toolchain demonstrated | 8–30 min | Reproducible projects; state versions and plugins |
 | Home organizing | Follow-along home skills | 3–15 min | Clear steps and supply lists; before-and-after payoff |
+| Car reviews & test drives | Vehicle performance and experience, tested | 8–25 min | State test conditions and routes; keep data and feel apart |
 
 ### Boundaries & Scope
 

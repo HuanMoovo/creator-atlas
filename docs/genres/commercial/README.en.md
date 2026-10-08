@@ -29,6 +29,7 @@ It suits organizations and brands with budget and clear goals; for individual cr
 | Real estate & venue videos | Space presentation as the core | 30 s–3 min | Spatial narrative flow; wide angles plus stabilization |
 | Restaurant & store promos | Store and product display | 15 s–2 min | Dishes and atmosphere in parallel; compliant wording |
 | Investment & project pitches | Project value presentation | 3–10 min | Verify data and qualifications; steady structure |
+| Concert & live music films | Professional records of live performances | 1–10 min | Balance multi-cam and live sound; artist approval |
 
 ### Boundaries & Scope
 

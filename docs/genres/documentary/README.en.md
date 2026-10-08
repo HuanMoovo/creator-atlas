@@ -33,6 +33,11 @@ Authenticity has a premium and a price: viewers tolerate more roughness but dema
 | Urban exploration | Discovering city spaces and ruins | 5–15 min | Permits and safety are the floor; context notes fill the story |
 | Transport POV | First-person capture of a journey | 10–60 min | Stable fixed camera; compress the unchanging, keep scenic beats |
 | Gardening & plants | A long-cycle record of growing | 5–15 min | Fixed spots for growth comparison; seasonal rhythm as structure |
+| Mukbang & eating shows | A real eating process with companionship | 10–60 min | An honest pace; mind platform rules on food waste |
+| Challenges & plans | A real goal carried out over time | 5–30 min | State the goal and rules up front; ups and downs are the narrative |
+| Social experiments | Observing real reactions in real scenes | 3–15 min | Ethics and consent first; avoid over-generalizing conclusions |
+| Companion & slow streams | A low-intervention live presence | 30–180 min | Fixed camera and ambience; very slow, very long |
+| Live & breaking scenes | First-hand records of unfolding events | 1–15 min | Safety and legality first; time and place stated accurately |
 
 ### Boundaries & Scope
 

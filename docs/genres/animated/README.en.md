@@ -27,6 +27,7 @@ It suits explanatory, illustrative and imaginative content; the more a subject d
 | Music visualization | Sound-driven visuals | 1–5 min | Beat alignment first; design loops and variations |
 | Stop-motion & clay animation | Frame-by-frame, built into motion | 1–10 min | Shooting stability is the lifeline; fixed lights and sets |
 | Sand art & live drawing | Live performance meets recording | 1–5 min | Sync performance rhythm to camera; keep the process continuous |
+| Digital humans & avatars | Synthetic personas replacing on-camera talent | 1–15 min | Keep the persona style consistent; disclose AI generation per platform rules |
 
 ### Boundaries & Scope
 

@@ -29,6 +29,7 @@ The efficiency is enormous: no shooting and no locations, with the ceiling set b
 | Shot-by-shot analysis | Reading footage frame by frame | 5–20 min | Cite sources for clips; explain the terminology used |
 | Trailer & teaser edits | Re-cutting source into trailers | 30 s–3 min | Design the emotion curve; don't spoil the core reversal |
 | Comparisons & evolution histories | Change told through timelines | 3–15 min | Match generations accurately; conclusions on visible evidence |
+| Historical archive compilations | Archive footage reassembled along a timeline | 3–15 min | Cite sources and dates; note restoration work |
 
 ### Boundaries & Scope
 
