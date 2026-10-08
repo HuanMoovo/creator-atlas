@@ -130,5 +130,5 @@
 - [《脚本与叙事》](../../methods/script.md)：解释性内容的结构与信息密度。
 - [《剪辑与后期》](../../methods/editing.md)：动效与声音设计的执行要点。
 - [《变现与经营》](../../methods/monetization.md)：AI 辅助内容的披露与合规。
-- [资源与工具](../../resources/README.md)：动画、配音与开源工具入口。
+- [资源与工具](../../../resources/README.md)：动画、配音与开源工具入口。
 - [制作方法总览](../README.md)：其余七类制作方法。

@@ -136,5 +136,5 @@
 - [《剪辑与后期》](../../methods/editing.md)：节奏与声音设计的具体方法。
 - [《脚本与叙事》](../../methods/script.md)：再叙事的结构设计。
 - [《变现与经营》](../../methods/monetization.md)：版权与合规的边界说明。
-- [资源与工具](../../resources/README.md)：下载、剪辑与开源工具入口。
+- [资源与工具](../../../resources/README.md)：下载、剪辑与开源工具入口。
 - [制作方法总览](../README.md)：其余七类制作方法。

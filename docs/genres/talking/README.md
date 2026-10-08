@@ -134,5 +134,5 @@
 - [《脚本与叙事》](../../methods/script.md)：钩子与结构的完整方法。
 - [《拍摄与制作》](../../methods/production.md)：口播的机位、灯光与收音。
 - [《包装与分发》](../../methods/packaging.md)：标题封面如何承接口播的人格资产。
-- [资源与工具](../../resources/README.md)：口播的设备、软件与开源工具。
+- [资源与工具](../../../resources/README.md)：口播的设备、软件与开源工具。
 - [制作方法总览](../README.md)：其余七类制作方法。

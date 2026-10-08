@@ -142,5 +142,5 @@
 - [《拍摄与制作》](../../methods/production.md)：现场执行的完整清单。
 - [《剪辑与后期》](../../methods/editing.md)：把杂乱素材变成结构的方法。
 - [《增长与复盘》](../../methods/growth.md)：生活类内容的数据读法。
-- [资源与工具](../../resources/README.md)：拍摄设备与开源工具的核查过入口。
+- [资源与工具](../../../resources/README.md)：拍摄设备与开源工具的核查过入口。
 - [制作方法总览](../README.md)：其余七类制作方法。

@@ -136,5 +136,5 @@
 - [《脚本与叙事》](../../methods/script.md)：提问与结构的关系。
 - [《拍摄与制作》](../../methods/production.md)：双人场景的机位与收音。
 - [《剪辑与后期》](../../methods/editing.md)：从长素材中提炼内容的方法。
-- [资源与工具](../../resources/README.md)：收音、播客与开源工具入口。
+- [资源与工具](../../../resources/README.md)：收音、播客与开源工具入口。
 - [制作方法总览](../README.md)：其余七类制作方法。

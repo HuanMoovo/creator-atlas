@@ -132,5 +132,5 @@
 - [《脚本与叙事》](../../methods/script.md)：结构与台词的基础方法。
 - [《拍摄与制作》](../../methods/production.md)：表演调度与现场执行。
 - [《剪辑与后期》](../../methods/editing.md)：剧情内容的节奏与声音设计。
-- [资源与工具](../../resources/README.md)：拍摄、录音与开源工具入口。
+- [资源与工具](../../../resources/README.md)：拍摄、录音与开源工具入口。
 - [制作方法总览](../README.md)：其余七类制作方法。
