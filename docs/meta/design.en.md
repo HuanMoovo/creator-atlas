@@ -28,7 +28,7 @@ Out of scope: hot-news coverage, zero-basics tutorials for a single piece of sof
 | --- | --- | --- |
 | Getting started | The big picture, niche selection, your first video, learning paths, roles map | [Start Here](../start/README.md) |
 | Method domains | Seven handbooks: positioning, script, production, editing, packaging, growth, monetization | [Method Domains](../methods/README.md) |
-| Production methods | 8 production-method handbooks (integrating dozens of content types) | [Production Methods](../genres/README.md) |
+| Production methods | 8 handbooks with applicable-type detail and full workflows (integrating 70+ content types) | [Production Methods](../genres/README.md) |
 | Resources & tools | Verified entries for gear, software, open-source tools, assets, AI tools and data platforms | [Resources & Tools](../../resources/README.md) |
 | Checklists & templates | Ready-to-use templates: topic bank, scripts, storyboard, publish checklist, retro | [Checklists & Templates](../../templates/README.md) |
 | Meta | This page, the content roadmap, the glossary | [Repository Info](README.md) |
@@ -59,7 +59,7 @@ Current scale: 7 method domains · 8 production methods · 7 resource pages · 8
 
 ## 05 Version & status
 
-- Current version v0.2: on top of the v0.1 skeleton (seven method domains, 8 production methods, resources and templates, bilingual reading site), the Open-Source Tools page (14 categories, 193 entries) is added.
+- Current version v0.3: after v0.1 (skeleton) and v0.2 (Open-Source Tools, 14 categories, 193 entries), the production-methods section gains applicable-type detail and full workflows (a seven-stage standard workflow plus type variants).
 - Milestones: v0.1 initial skeleton and 8 production methods → subsequent expansion per the roadmap (full English coverage, case library, platform-mechanics reference).
 - Full record in [CHANGELOG.md](../../CHANGELOG.md); next steps in the [Content Roadmap](roadmap.md).
 

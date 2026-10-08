@@ -22,7 +22,7 @@
 
 ## 制作方法（genres/）
 
-- [制作方法总览](genres/README.md)：8 类制作方法，整合覆盖六十余种内容形态。
+- [制作方法总览](genres/README.md)：8 类制作方法，含适用类型详解与完整工作流，整合覆盖七十余种内容形态。
 - [口播讲述](genres/talking/README.md) · [实拍纪实](genres/documentary/README.md) · [剧情表演](genres/scripted/README.md) · [操作演示](genres/demo/README.md) · [对话访谈](genres/conversation/README.md) · [动画合成](genres/animated/README.md) · [素材再创](genres/editorial/README.md) · [商业摄制](genres/commercial/README.md)
 
 ## 资源与工具
