@@ -25,6 +25,8 @@ It suits professional viewpoints, character stories and relationship-driven cont
 | Founder interviews | Stories and lessons reviewed | 30–90 min | Story line design; numbers and outcomes stated |
 | Call-in consultations | One-on-one expert answers | 15–60 min | Privacy and compliance first; anonymize cases |
 | Creators & behind-the-scenes | Conversations about the work itself | 20–60 min | Work facts and creative motives together; weave in BTS footage |
+| Debates & opinion contests | Structured clash of views | 15–60 min | Rules first; balanced floor time |
+| Oral history | First-hand memory recorded | 20–90 min | Build the timeline; keep tone and detail untouched |
 
 ### Boundaries & Scope
 

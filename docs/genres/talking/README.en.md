@@ -27,6 +27,10 @@ It suits everything centered on "getting it clear": conveying information, expre
 | Daily briefing | Fixed show, fixed format, fixed slot | 1–5 min | Templated structure; capacity and consistency are the lifeline |
 | Industry & product analysis | Reading industry events and product logic | 5–15 min | Layer the sources: first-hand first; keep prediction apart from fact |
 | Experience & method retros | A method review built on first-hand practice | 5–15 min | Complete timeline and result data; extract transferable conclusions |
+| History & humanities | Fact-based history and human stories | 8–20 min | Source attribution; keep the narrative inside the historical record |
+| Military & defense explainers | Rigorous equipment and war-history talks | 5–15 min | Authoritative data and imagery; avoid sensitive topics |
+| Tech & AI news | Industry moves and trend reads | 3–10 min | Short window; first-hand sources first, prediction labeled |
+| Classics & traditional culture | Modern readings of classic texts | 5–20 min | Layer quotes and plain-language explication; cite editions |
 
 ### Boundaries & Scope
 

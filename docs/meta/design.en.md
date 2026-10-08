@@ -28,7 +28,7 @@ Out of scope: hot-news coverage, zero-basics tutorials for a single piece of sof
 | --- | --- | --- |
 | Getting started | The big picture, niche selection, your first video, learning paths, roles map | [Start Here](../start/README.md) |
 | Method domains | Seven handbooks: positioning, script, production, editing, packaging, growth, monetization | [Method Domains](../methods/README.md) |
-| Production methods | 8 handbooks with applicable-type detail and full workflows (integrating 90+ content types) | [Production Methods](../genres/README.md) |
+| Production methods | 8 handbooks with applicable-type detail and full workflows (integrating 100+ content types) | [Production Methods](../genres/README.md) |
 | Resources & tools | Verified entries for gear, software, open-source tools, assets, AI tools and data platforms | [Resources & Tools](../../resources/README.md) |
 | Checklists & templates | Ready-to-use templates: topic bank, scripts, storyboard, publish checklist, retro | [Checklists & Templates](../../templates/README.md) |
 | Meta | This page, the content roadmap, the glossary | [Repository Info](README.md) |

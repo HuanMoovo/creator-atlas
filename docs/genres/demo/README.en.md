@@ -30,6 +30,12 @@ It suits everything that must be seen to be believed or followed to be learned. 
 | Coding walkthroughs | Code process and result verification | 8–25 min | Enlarge code fonts; keep the debugging process complete |
 | Drawing & calligraphy | Process capture and technique on display | 3–15 min | Alternate time-lapse and close-ups; keep the brush sounds |
 | Efficiency tip collections | High-frequency tips demonstrated together | 3–10 min | Each tip stands alone; group by use case |
+| Photography & retouching | Shooting and post workflows taught | 5–20 min | State parameters and conditions; show before-and-after |
+| Instrument lessons | Line-by-line practice-along | 5–30 min | Slow demonstration per phrase; scores and fingering legible |
+| Bartending & drinks | Drink-making process demos | 1–10 min | Quantify amounts; shoot the finished pour first-class |
+| 3D modeling & design | Design workflows in professional software | 10–40 min | Surface shortcuts; offer project files when possible |
+| Audio-video production | The creator toolchain demonstrated | 8–30 min | Reproducible projects; state versions and plugins |
+| Home organizing | Follow-along home skills | 3–15 min | Clear steps and supply lists; before-and-after payoff |
 
 ### Boundaries & Scope
 

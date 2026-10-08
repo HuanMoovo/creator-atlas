@@ -1,26 +1,26 @@
 # Creator Atlas · Production Methods
 
 > Organized not by subject matter but by "how it is made": every content type is consolidated into 8 production methods. Each method distills its shared theory and methodology first, then details how individual content types vary within it, with a complete workflow.
-> Coverage: talking-head opinion, explainers, vlogs, food, scripted, tutorials, interviews, animation, film recaps, commercials and 90+ content formats in total, all folded into the 8 production methods.
+> Coverage: talking-head opinion, explainers, vlogs, food, scripted, tutorials, interviews, animation, film recaps, commercials and 100+ content formats in total, all folded into the 8 production methods.
 
 ## The Eight Production Methods
 
 | Method | Representative Types | Methodological Core | Workflow Skeleton |
 | --- | --- | --- | --- |
-| [Talking to Camera](talking/README.md) | opinion video, explainer, news commentary, policy analysis, industry & product analysis, course series, talks & lectures, Q&A, reviews, experience retros, niche commentary, daily briefing | Personal trust & information efficiency | Thesis → Script → Preparation → Shooting → Rough cut → Fine cut → Publish |
-| [Real-Life & Documentary](documentary/README.md) | daily vlog, travel, food & cooking, food tours & shop visits, pets & parenting, fishing & outdoors, cycling & road trips, outdoor sports, rural & farming, building & renovation, weddings & events, ASMR & ambience, home & lifestyle, street observation | Authenticity & companionship | Promise → Plan → Field capture → Organization → Structure → Fine cut → Publish |
-| [Scripted & Performance](scripted/README.md) | comedy skits, micro-dramas, sitcom series, period dramas, narrative shorts, talent performances, music & covers, dance, stage skits, impressions & parodies | Choreographed conflict & emotion | Script → Rehearsal → Production → Shooting → Test screening → Polish → Serialize |
-| [Demo & Screencast](demo/README.md) | software tutorials, gameplay & guides, tech reviews, unboxing, teardowns & builds, crafts & DIY, repair & restoration, coding walkthroughs, drawing & calligraphy, cooking follow-alongs, fitness & makeup follow-alongs, experiments & tests, efficiency tips, workflow walkthroughs | Reproducibility & information design | Goal → Flow design → Recording → Speed & structure → Reproducibility check → Publish |
-| [Conversation & Interview](conversation/README.md) | interviews, expert dialogues, podcasts, roundtables, live chats, call-in consultations, street interviews, career & hiring interviews, creators & behind-the-scenes, founder interviews | The structure of asking & listening | Guest → Question list → Setup → Recording → Distillation → Clips → Reuse |
-| [Animation & Synthesis](animated/README.md) | explainer animation, whiteboard, 2D explainer, 3D demos, data visualization, kids & education, music visualization, AI-generated footage, faceless videos, abstract concept demos | Constructed imagery instead of shooting | Voice → Visual plan → Assets → Animation → Sound sync → Review → Template |
-| [Editorial & Remix](editorial/README.md) | film recaps, gaming montages & edits, sports highlights, mashups, roundups & compilations, reactions, memes & absurd edits, meme roundups, news digests, warning roundups, song mixes & audio remixes | Re-narrating existing footage | Survey → Script → Collect & tag → Re-edit → Voice-over → Package → Compliance check |
-| [Commercial Production](commercial/README.md) | ad films, brand films, product demos, launch & event videos, e-commerce videos, music videos, motion graphics & brand idents, corporate training, employer branding, government & enterprise films, trade-show recaps | Goal-driven delivery standards | Brief → Proposal → Production → Shooting → Revision rounds → Delivery → Reuse |
+| [Talking to Camera](talking/README.md) | opinion video, explainer, news commentary, policy analysis, industry & product analysis, tech & AI news, military & defense, history & humanities, classics & culture, course series, talks & lectures, Q&A, reviews, experience retros, niche commentary, daily briefing | Personal trust & information efficiency | Thesis → Script → Preparation → Shooting → Rough cut → Fine cut → Publish |
+| [Real-Life & Documentary](documentary/README.md) | daily vlog, travel, food & cooking, food tours & shop visits, pets & parenting, fishing & outdoors, cycling & road trips, outdoor sports, rural & farming, gardening & plants, building & renovation, weddings & events, ASMR & ambience, home & lifestyle, street observation, career immersion, urban exploration, transport POV | Authenticity & companionship | Promise → Plan → Field capture → Organization → Structure → Fine cut → Publish |
+| [Scripted & Performance](scripted/README.md) | comedy skits, micro-dramas, sitcom series, period dramas, narrative shorts, talent performances, music & covers, dance, stage skits, impressions & parodies, audio drama & radio plays, re-enactments, mime & physical performance | Choreographed conflict & emotion | Script → Rehearsal → Production → Shooting → Test screening → Polish → Serialize |
+| [Demo & Screencast](demo/README.md) | software tutorials, gameplay & guides, tech reviews, unboxing, teardowns & builds, crafts & DIY, repair & restoration, coding walkthroughs, drawing & calligraphy, cooking follow-alongs, fitness & makeup follow-alongs, experiments & tests, efficiency tips, workflow walkthroughs, photography & retouching, instrument lessons, bartending & drinks, 3D modeling & design, audio-video production, home organizing | Reproducibility & information design | Goal → Flow design → Recording → Speed & structure → Reproducibility check → Publish |
+| [Conversation & Interview](conversation/README.md) | interviews, expert dialogues, podcasts, roundtables, live chats, call-in consultations, street interviews, career & hiring interviews, creators & behind-the-scenes, founder interviews, debates & opinion contests, oral history | The structure of asking & listening | Guest → Question list → Setup → Recording → Distillation → Clips → Reuse |
+| [Animation & Synthesis](animated/README.md) | explainer animation, whiteboard, 2D explainer, 3D demos, data visualization, kids & education, music visualization, AI-generated footage, faceless videos, abstract concept demos, stop-motion & clay, sand art & live drawing | Constructed imagery instead of shooting | Voice → Visual plan → Assets → Animation → Sound sync → Review → Template |
+| [Editorial & Remix](editorial/README.md) | film recaps, gaming montages & edits, sports highlights, mashups, roundups & compilations, reactions, memes & absurd edits, meme roundups, news digests, warning roundups, song mixes & audio remixes, shot-by-shot analysis, trailer & teaser edits, comparisons & evolution histories | Re-narrating existing footage | Survey → Script → Collect & tag → Re-edit → Voice-over → Package → Compliance check |
+| [Commercial Production](commercial/README.md) | ad films, brand films, product demos, launch & event videos, e-commerce videos, music videos, motion graphics & brand idents, corporate training, employer branding, government & enterprise films, trade-show recaps, real estate & venues, restaurant & store promos, investment pitches | Goal-driven delivery standards | Brief → Proposal → Production → Shooting → Revision rounds → Delivery → Reuse |
 
 Each method page contains five sections: applicable types in detail, key principles, the standard workflow (seven phases with actions, outputs and checkpoints), workflow variants by type, and common pitfalls.
 
 ## Type Panorama
 
-A cross-reference of 90+ content formats against the 8 production methods. To classify, answer two questions first: **where do the images come from** and **how is production organized**. Subject matter does not decide the category; the way it is made does.
+A cross-reference of 100+ content formats against the 8 production methods. To classify, answer two questions first: **where do the images come from** and **how is production organized**. Subject matter does not decide the category; the way it is made does.
 
 ### Talking to Camera
 
@@ -38,6 +38,10 @@ A cross-reference of 90+ content formats against the 8 production methods. To cl
 | Experience retros | Project retros, career reflections, method summaries | A method review built on first-hand practice |
 | Niche commentary | Finance, career, law, health, psychology, relationships | Hard professional anchors, controlled expression |
 | Daily briefing | Morning briefs, weekly digests, industry briefs | Fixed show, fixed format |
+| History & humanities | Historical research, biographies, culture talks | Humanities storytelling grounded in facts |
+| Military & defense explainers | Equipment breakdowns, war history, enthusiast science | Rigorous technical explanation for a devoted niche |
+| Tech & AI news | Industry moves, release roundups, trend reads | Timeliness and expertise carried together |
+| Classics & traditional culture | Classic readings, poetry, culture essays | Modern spoken readings of classic texts |
 
 ### Real-Life & Documentary
 
@@ -57,6 +61,10 @@ A cross-reference of 90+ content formats against the 8 production methods. To cl
 | ASMR & ambience | ASMR, white noise, immersive scenes | Capturing real sensory experience |
 | Home & lifestyle | Organizing, cleaning, home makeovers | Real settings with practical information |
 | Street observation | Street photography, city watching, travel snaps | Chance narratives from real scenes |
+| Career immersion | Job shadowing, work diaries, industry docs | Entering real professional settings to record |
+| Urban exploration | Ruins, alleys, local discoveries | Finding stories inside real city space |
+| Transport POV | Train windows, bus rides, driving logs | Continuous capture of a real journey |
+| Gardening & plants | Flowers, houseplants, yards | A long-cycle record of growing things |
 
 ### Scripted & Performance
 
@@ -72,6 +80,9 @@ A cross-reference of 90+ content formats against the 8 production methods. To cl
 | Dance | Street, home, folk | Choreography matched to the camera |
 | Stage skits | Stand-up, sketch, theatre clips | Live, choreographed performance |
 | Impressions & parodies | Movie impressions, scene recreations | Scripted re-performance |
+| Audio drama & radio plays | Radio drama, audiobooks, dubbing showcases | Performance carried mainly by voice |
+| Re-enactments | Case reconstructions, history replays, science dramatizations | Choreographed reconstructions of real events |
+| Mime & physical performance | Mime, physical theatre, street performance | Live choreography carried by the body |
 
 ### Demo & Screencast
 
@@ -91,6 +102,12 @@ A cross-reference of 90+ content formats against the 8 production methods. To cl
 | Experiments & tests | Science demos, comparisons, stress tests | A verification process on display |
 | Efficiency tip collections | Software tips, methods, hidden features | High-frequency tips demonstrated together |
 | Workflow walkthroughs | End-to-end jobs, service processes | The whole process, shown end to end |
+| Photography & retouching | Shooting skills, retouching, gear onboarding | Step-by-step teaching of an imaging workflow |
+| Instrument lessons | Guitar, piano, vocals | Line-by-line practice-along teaching |
+| Bartending & drinks | Cocktails, coffee, tea | Process demonstration of drink making |
+| 3D modeling & design | Modeling, rendering, UI | Design workflows inside professional software |
+| Audio-video production | Editing, music production, recording | The creator toolchain, demonstrated end to end |
+| Home organizing | Storage, cleaning, housekeeping | Follow-along demos of home skills |
 
 ### Conversation & Interview
 
@@ -106,6 +123,8 @@ A cross-reference of 90+ content formats against the 8 production methods. To cl
 | Career & hiring interviews | Hiring talks, career stories | Career information delivered through conversation |
 | Creators & behind-the-scenes | Creators, BTS records | Conversations about the work itself |
 | Founder interviews | Startup stories, business interviews | Life stories delivered through conversation |
+| Debates & opinion contests | Debate shows, structured clash | Structured conversation of opposing views |
+| Oral history | Eyewitnesses, era memories | Conversations recording first-hand memory |
 
 ### Animation & Synthesis
 
@@ -121,6 +140,8 @@ A cross-reference of 90+ content formats against the 8 production methods. To cl
 | AI-generated footage | AI shorts, AI ads, stylized footage | Images constructed by generative tools |
 | Faceless knowledge videos | Stock-plus-voice pieces, knowledge compilations | Stock footage plus voice-over |
 | Abstract concept demos | Math, philosophy, psychology concepts | Showing what cannot be shot |
+| Stop-motion & clay animation | Stop motion, clay, object animation | Frame-by-frame capture, built into motion |
+| Sand art & live drawing | Sand art, ink, live drawing | Live performance combined with captured picture |
 
 ### Editorial & Remix
 
@@ -137,6 +158,9 @@ A cross-reference of 90+ content formats against the 8 production methods. To cl
 | News digests | Weeklies, industry roundups | Aggregating and reassembling information |
 | Warning & pitfall roundups | Shopping warnings, travel pitfalls | Assemblies made to warn |
 | Song mixes & audio remixes | Song medleys, music remixes | Re-creation driven by the audio layer |
+| Shot-by-shot analysis | Camera language, director techniques | Reading existing footage shot by shot |
+| Trailer & teaser edits | Fan trailers, re-cut teasers | Re-editing source footage into new trailers |
+| Comparisons & evolution histories | Generations, timelines, development stories | Telling change through a timeline of footage |
 
 ### Commercial Production
 
@@ -153,6 +177,9 @@ A cross-reference of 90+ content formats against the 8 production methods. To cl
 | Employer branding & recruiting | Recruiting promos, employer brand | Talent-facing content delivered to a client |
 | Government & enterprise films | Report films, achievement films | Report films delivered to a client |
 | Trade-show recaps | Expo recaps, event highlights | Same-day content delivered to a client |
+| Real estate & venues | Property tours, venue promos, hotel spaces | Space presentation as the core |
+| Restaurant & store promos | Dish videos, store image, visit material | Store and product display as the core |
+| Investment pitches | Pitch films, project showcases | Project value presentation as the core |
 
 ## Classification Rules
 

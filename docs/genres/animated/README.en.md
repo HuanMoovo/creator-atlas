@@ -25,6 +25,8 @@ It suits explanatory, illustrative and imaginative content; the more a subject d
 | Abstract concept demos | Showing the unshootable | 3–10 min | Design the visual grammar from the question outward |
 | Kids & educational animation | Built for young viewers and classrooms | 2–10 min | Grade the vocabulary and pace; lower density than adult content |
 | Music visualization | Sound-driven visuals | 1–5 min | Beat alignment first; design loops and variations |
+| Stop-motion & clay animation | Frame-by-frame, built into motion | 1–10 min | Shooting stability is the lifeline; fixed lights and sets |
+| Sand art & live drawing | Live performance meets recording | 1–5 min | Sync performance rhythm to camera; keep the process continuous |
 
 ### Boundaries & Scope
 

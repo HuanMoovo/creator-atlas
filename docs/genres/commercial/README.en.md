@@ -26,6 +26,9 @@ It suits organizations and brands with budget and clear goals; for individual cr
 | Trade-show recaps | Immediate distribution | 30 s–3 min | Same-day output; templated process |
 | Music videos | Built around a music release | 2–5 min | Concept matches the song's character; cut multiple versions (full and vertical) |
 | Motion graphics & brand idents | Motion-design-driven delivery | 15 s–2 min | Brand guidelines first; templatize for client reuse |
+| Real estate & venue videos | Space presentation as the core | 30 s–3 min | Spatial narrative flow; wide angles plus stabilization |
+| Restaurant & store promos | Store and product display | 15 s–2 min | Dishes and atmosphere in parallel; compliant wording |
+| Investment & project pitches | Project value presentation | 3–10 min | Verify data and qualifications; steady structure |
 
 ### Boundaries & Scope
 

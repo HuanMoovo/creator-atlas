@@ -25,6 +25,9 @@ It suits content chasing emotion and memory: make them laugh, make them follow, 
 | Impressions & parodies | Context-dependent performance | 30 s–3 min | The source bit must be recognizable; mind footage and likeness boundaries |
 | Talent performances | Skill display as the core | 1–5 min | The camera magnifies technique; keep both failures and successes |
 | Period dramas | Stylized aesthetics and set design | 3–15 min | Plan the art budget up front; keep wardrobe and props consistent |
+| Audio drama & radio plays | Performance carried by voice | 10–60 min | Recording quality is the whole experience; distinct character voices |
+| Re-enactments | Performing reconstructions of real events | 3–15 min | Cross-reference documentary material; label as dramatization |
+| Mime & physical performance | Expression carried by the body | 1–10 min | Cut to the movement; music carries the narrative |
 
 ### Boundaries & Scope
 

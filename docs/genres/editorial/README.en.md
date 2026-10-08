@@ -26,6 +26,9 @@ The efficiency is enormous: no shooting and no locations, with the ceiling set b
 | News digests | Information aggregation | 3–10 min | Sources and positions layered; fact-checking discipline |
 | Warning & pitfall roundups | Assemblies made to warn | 3–10 min | Evidence first; avoid absolute claims |
 | Song mixes & audio remixes | Re-creation driven by the audio layer | 1–5 min | The transitions' key and beat are the quality divide |
+| Shot-by-shot analysis | Reading footage frame by frame | 5–20 min | Cite sources for clips; explain the terminology used |
+| Trailer & teaser edits | Re-cutting source into trailers | 30 s–3 min | Design the emotion curve; don't spoil the core reversal |
+| Comparisons & evolution histories | Change told through timelines | 3–15 min | Match generations accurately; conclusions on visible evidence |
 
 ### Boundaries & Scope
 

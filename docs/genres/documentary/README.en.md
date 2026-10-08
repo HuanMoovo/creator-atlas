@@ -29,6 +29,10 @@ Authenticity has a premium and a price: viewers tolerate more roughness but dema
 | Street observation | Chance and city narratives | 3–10 min | On-the-spot judgment; portrait and privacy handling must be compliant |
 | Fishing & outdoors | Slow process, then the payoff moment | 5–20 min | Compress the waiting, enlarge the catch; ambient sound sets the mood |
 | Cycling & road trips | Route process and roadside finds | 8–20 min | Route info and imagery together; safety and weather backup |
+| Career immersion | Entering real professional settings | 8–20 min | Permissions and safety first; the worker's real state over staging |
+| Urban exploration | Discovering city spaces and ruins | 5–15 min | Permits and safety are the floor; context notes fill the story |
+| Transport POV | First-person capture of a journey | 10–60 min | Stable fixed camera; compress the unchanging, keep scenic beats |
+| Gardening & plants | A long-cycle record of growing | 5–15 min | Fixed spots for growth comparison; seasonal rhythm as structure |
 
 ### Boundaries & Scope
 
