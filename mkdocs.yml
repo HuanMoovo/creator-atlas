@@ -96,6 +96,8 @@ plugins:
             "拍摄设备": "Gear"
             "软件与工具": "Software & Tools"
             "开源工具推荐": "Open-Source Tools"
+            "付费工具工作流": "Paid Tools Workflow"
+            "开源工具工作流": "Open-Source Workflow"
             "素材与版权": "Assets & Licensing"
             "AI 工具": "AI Tools"
             "数据与平台": "Data & Platforms"

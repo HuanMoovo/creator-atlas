@@ -27,7 +27,7 @@ Opening: [Preface](preface.md) (why this project exists).
 
 ## Resources & tools
 
-- [Resources index](../resources/README.md): gear, software, open-source tools, assets, AI tools and data platforms.
+- [Resources index](../resources/README.md): paid and open-source tool workflows, the full open-source catalog, assets, AI tools and data platforms.
 
 ## Checklists & templates
 

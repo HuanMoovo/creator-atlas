@@ -7,7 +7,7 @@
 
 - Seven method domains: complete (7/7).
 - Production methods: 8 complete, with applicable-type detail and full workflows; new content types merge into the existing categories.
-- Resources & tools: 7 pages complete; links re-checked with each release.
+- Resources & tools: 9 pages complete (including the paid and open-source tool workflows); links re-checked with each release.
 - Checklists & templates: 8 complete.
 - Open-source tools: 14 categories, 193 entries, complete.
 - English edition: entry, core pages, production methods and method domains translated; start, resources and templates roll out in batches (see T3).
